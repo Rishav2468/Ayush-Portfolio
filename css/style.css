@@ -70,7 +70,9 @@ ul {
     margin: 0;
     padding: 0;
 }
-
+.logo{
+    margin-left: -120px;
+}
 img {
     vertical-align: middle;
     max-width: 100%;
